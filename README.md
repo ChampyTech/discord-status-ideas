@@ -142,3 +142,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 ## 🙏 Contributing
 
 Open a pull request or an issue. Even small contributions are welcome!
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
