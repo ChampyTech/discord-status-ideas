@@ -138,3 +138,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 - 🚀 Working on [Project Name] – check it out!
 - 🌍 Contributing to the open-source community.
 - 🏗️ Currently building the future (and maybe breaking a few things).
+
+## 🙏 Contributing
+
+Open a pull request or an issue. Even small contributions are welcome!
