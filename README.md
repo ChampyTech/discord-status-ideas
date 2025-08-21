@@ -11,6 +11,9 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 
 ## 📕 Ideas
 
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
 ### Development
 
 - 💻 Coding mode: ON
